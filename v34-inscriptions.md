@@ -11,4 +11,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/elm/blob/m
 
 * *nom - prénom - mail - tél - twitter*
 * Langlois - Stéphane - stéphane@scopyleft.fr - 0000000000 - @langlois_s
-* Vernois - Antoine - @ - 000000000 - @avernois
+* Vernois - Antoine - - 0000000000 - @avernois
