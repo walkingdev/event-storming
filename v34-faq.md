@@ -10,7 +10,7 @@ image_url: https://github.com/walkingdev/elm/blob/master/media/elm.png?raw=true
 
 ### On va faire quoi ?
 
-L'idée c'est de découvrir un sujet, Elm, en même temps que des lieux.
+L'idée c'est de découvrir *Elm*, en même temps que des lieux.
 Dans un lieu, en binôme ou en groupe on explore une partie du sujet, via des petits ateliers, présentations, questionnements ou autres expérimentations puis on passe à l'endroit suivant.
 On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
