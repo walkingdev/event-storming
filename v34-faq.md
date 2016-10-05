@@ -35,7 +35,7 @@ Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végéta
 
 ### Je m'inscris où ?
 
-Les inscriptions sont là : 
+Tu peux t’inscrire ici : [v34-inscriptions.md](https://github.com/walkingdev/elm/edit/master/v34-inscriptions.md)
 
 ### Pourquoi V-34 ?
 
@@ -43,4 +43,7 @@ C'est pas très explicite, mais en cherchant on trouve quand même facilement le
 
 #### Et si j'ai une question ?
 
-Tu peux contacter Antoine - [@avernois](http://twitter.com/avernois)(dm ouvert) - ou Stéphane - [@langlois_s](http://twitter.com/langlois_s)
+Tu peux contacter :  
+- Antoine - [@avernois](http://twitter.com/avernois)(dm ouvert)  
+ou  
+- Stéphane - [@langlois_s](http://twitter.com/langlois_s)
