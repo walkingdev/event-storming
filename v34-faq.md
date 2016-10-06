@@ -25,6 +25,12 @@ Et, ça se termine vers 18h30.
 - Les développeuses et développeurs souhaitant chatouiller le paradigme fonctionnel sans se brûler.
 - Les hipsters et hipsteuses kiffant tester l'effet de leurs barbes en se baladant dans la cité.
 
+### Je me sens pas au niveau…
+
+T’inquiète pas, nous non plus ;)
+
+En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec nous sans être largué.
+
 ### On sera combien ?
 
 Au moins 2, maximum 8, probablement 6.
