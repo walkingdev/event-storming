@@ -41,7 +41,7 @@ En gros, il faut que tu prennes ton **laptop**, ta bonne humeur, de l’eau, des
 
 Pour le détail on a fait une page spécialement pour ça :
 
-> [Prépare ton escapade](http://www.walkingdev.fr/#walkingdev/ressources/v34-prépare-ton-escapade.md)
+> [Prépare ton escapade](http://www.walkingdev.fr/#walkingdev/ressources/v34-prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
