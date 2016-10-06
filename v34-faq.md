@@ -10,13 +10,13 @@ image_url: https://github.com/walkingdev/elm/blob/master/media/elm.png?raw=true
 
 ### On va faire quoi ?
 
-L'idée c'est de découvrir *Elm*, en même temps que des endroits insolites.
+L'idée c'est de découvrir [Elm](http://elm-lang.org/), en même temps que des endroits insolites.
 Dans un lieu, en binôme ou en groupe on explore une partie du sujet, via des petits ateliers, présentations, questionnements ou autres expérimentations puis on passe à l'endroit suivant.
 On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le 27 octobre à 9h au FairView Café à Montpellier.
+La marche commencera le 27 octobre à 9h au [FairView Café](http://www.openstreetmap.org/node/1347108117) rue Loys à Montpellier.
 Et, ça se termine vers 18h30.
 
 ### C'est pour qui ?
@@ -41,7 +41,7 @@ En gros, il faut que tu prennes ton **laptop**, ta bonne humeur, de l’eau, des
 
 Pour le détail on a fait une page spécialement pour ça :
 
-> [Prépare ton escapade](http://www.walkingdev.fr/#walkingdev/ressources/v34-prepare-ton-escapade.md)
+> [Prépare ton escapade](http://walkingdev.fr/#walkingdev/elm/blob/master/ressources/v34-prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 

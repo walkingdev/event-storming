@@ -18,7 +18,7 @@ image_url: https://github.com/walkingdev/elm/blob/master/media/elm.png?raw=true
 #### Installer Elm sur ton Laptop
 > [Install Elm](https://guide.elm-lang.org/get_started.html)
 
-Si tu galères tu peux nous joindre [stephane@scopyleft.fr](mail:stephane@scopyleft.fr) ou [twitter @avernois](https:/twitter.com/avernois) et on voit ça ensemble.
+Si tu galères tu peux nous joindre [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr) ou [twitter @avernois](https:/twitter.com/avernois) et on voit ça ensemble.
 
 ### Le reste
 - Chaussures confortable pour marcher
