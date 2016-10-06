@@ -39,9 +39,7 @@ Au moins 2, maximum 8, probablement 6.
 
 En gros, il faut que tu prennes ton **laptop**, ta bonne humeur, de l’eau, des noisettes et de t’habiller confortable pour marcher.
 
-Pour le détail on a fait une page spécialement pour ça :
-
-> [Prépare ton escapade](http://walkingdev.fr/#walkingdev/elm/blob/master/ressources/v34-prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/elm/blob/master/ressources/v34-prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
@@ -51,7 +49,7 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dan
 
 ### Je m'inscris où ?
 
-Tu peux t’inscrire ici : [v34-inscriptions.md](https://github.com/walkingdev/elm/edit/master/v34-inscriptions.md)
+Tu peux t’inscrire en éditant cette page sur Github : [v34-inscriptions.md](https://github.com/walkingdev/elm/edit/master/v34-inscriptions.md)
 
 Tu peux aussi nous envoyer un petit mail : [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
 
@@ -76,6 +74,6 @@ C'est pas très explicite, mais en cherchant on trouve quand même facilement le
 #### Et si j'ai une question ?
 
 Tu peux contacter :  
-- Antoine - [@avernois](http://twitter.com/avernois)(dm ouvert)  
+- Antoine - [@avernois](http://twitter.com/avernois) (dm ouvert)  
 ou  
-- Stéphane - [@langlois_s](http://twitter.com/langlois_s)(dm ouvert aussi) 
+- Stéphane - [@langlois_s](http://twitter.com/langlois_s) (dm ouvert aussi) 
