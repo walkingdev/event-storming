@@ -37,7 +37,7 @@ Au moins 2, maximum 8, probablement 6.
 
 ### Il faut que je prévois des trucs ?
 
-En gros, il faut que tu prennes ton **laptop**, ta bonne humeur, de l’eau, des noisettes et de t’habiller confortable pour marcher.
+En gros, il faut que tu prennes ton **laptop**, ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher.
 
 Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/elm/blob/master/ressources/v34-prepare-ton-escapade.md)
 
