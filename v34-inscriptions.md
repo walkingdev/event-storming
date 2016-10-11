@@ -13,3 +13,5 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/elm/blob/m
 * Langlois - Stéphane - stéphane@scopyleft.fr - @langlois_s
 * Vernois - Antoine - @avernois
 * Perriault - Nicolas - @n1k0
+* Chanson - Lionel - @liochan
+
