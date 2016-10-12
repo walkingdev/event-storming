@@ -15,3 +15,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/elm/blob/m
 * Perriault - Nicolas - @n1k0
 * Chanson - Lionel - @liochan
 * Gaulupeau - Johan - @y0h34
+* Hahn - Clémentine - @ClementineHahn
