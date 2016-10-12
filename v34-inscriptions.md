@@ -16,3 +16,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/elm/blob/m
 * Chanson - Lionel - @liochan
 * Gaulupeau - Johan - @y0h34
 * Hahn - Clémentine - @ClementineHahn
+* Prat Homs - Jordi - @jordiprathoms
