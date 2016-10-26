@@ -34,7 +34,8 @@ En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec no
 
 ### On sera combien ?
 
-Au moins 2, maximum 8, probablement 6.
+~~~Au moins 2, maximum 8, probablement 6~~~. 
+8, on sera 8
 
 ### Il faut que je prévois des trucs ?
 
