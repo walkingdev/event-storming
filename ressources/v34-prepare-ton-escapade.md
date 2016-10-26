@@ -9,7 +9,7 @@ image_url: https://github.com/walkingdev/elm/blob/master/media/elm.png?raw=true
 ## Ta préparation
 
 ### La technique
-- Laptop et chargeur
+- Laptop et chargeur, et **chargé**
 - L’adaptateur vidéo -vga ou hdmi
 - Une connexion Internet (via ton téléphone par exemple)
 - Un compte [github](https://github.com/join?source=header-home)
