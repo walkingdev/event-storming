@@ -16,7 +16,7 @@ On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le 27 octobre à 9h au ~~[FairView Café](http://www.openstreetmap.org/node/1347108117) rue Loys~~~
+La marche commencera le 27 octobre à 9h au ~~[FairView Café](http://www.openstreetmap.org/node/1347108117) rue Loys~~  
 [Café Bun, 5, rue des étuves à Montpellier](http://osm.org/go/xVygEvf3l) - .
 Et, ça se termine vers 18h30.
 
