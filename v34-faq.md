@@ -35,7 +35,7 @@ En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec no
 ### On sera combien ?
 
 ~~~Au moins 2, maximum 8, probablement 6~~~. 
-8, on sera 8
+8, en fait 9
 
 ### Il faut que je prévois des trucs ?
 
@@ -45,13 +45,15 @@ Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapa
 
 ### On marche beaucoup ?
 
-Une dizaine de kilomètre dans la journée.
+Une dizaine de kilomètres dans la journée.
 
 On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dans la journée.
 
 ### Je m'inscris où ?
 
-Tu peux t’inscrire en éditant cette page sur Github : [v34-inscriptions.md](https://github.com/walkingdev/elm/edit/master/v34-inscriptions.md)
+Tu ne peux plus t’inscrire, parce que c'est *COMPLET*
+
+Tu peux quand même t'inscrire par anticipation à la prochaine session en éditant cette page sur Github : [v34-inscriptions.md](https://github.com/walkingdev/elm/edit/master/v34-inscriptions.md) - et en précisant dans quelle ville tu souhaiterais qu'elle se déroule.
 
 Tu peux aussi nous envoyer un petit mail : [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
 
