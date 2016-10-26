@@ -7,6 +7,7 @@ image_url: https://github.com/walkingdev/elm/blob/master/media/elm.png?raw=true
 # Session ELM - V-34
 
 ## Liens
+- [Awesome Elm](https://github.com/isRuslan/awesome-elm)
 
 ### Tutos
 - [Elm stuff](https://www.brianthicks.com/)
@@ -24,6 +25,10 @@ image_url: https://github.com/walkingdev/elm/blob/master/media/elm.png?raw=true
 - [port tutorial](https://guide.elm-lang.org/interop/javascript.html)
 - [spa](http://7sharpnine.com/2016/10/03/building-an-spa-with-elm/)
 - [modularity](https://github.com/evancz/guide.elm-lang.org/tree/0f5beffd858b57e9264aa906826a35201dad5db2/modularity)
+- [space-invaders](http://ohanhi.github.io/base-for-game-elm-017.html)
+- [Elm structure](https://github.com/glasserc/demo-elm-structures)
+- [snippets-examples](https://github.com/ivanceras/elm-examples)
+- [recursion](http://learnyouanelm.github.io/pages/05-recursion.html)
 
 #### Videos
 - [Introduction - Richard Feldman](https://www.youtube.com/watch?v=zBHB9i8e3Kc)
@@ -35,6 +40,10 @@ image_url: https://github.com/walkingdev/elm/blob/master/media/elm.png?raw=true
 - [Elm live](https://www.youtube.com/watch?v=eb7G1P4hI3s)
 - [Elm live](https://www.twitch.tv/gregziegan/v/91814368)
 - [Building Application in Elm](https://www.youtube.com/watch?v=txxKx_I39a8)
+- [Rethinking All Practices: Building Applications in Elm](https://www.youtube.com/watch?v=txxKx_I39a8&feature=youtu.be)
+- [Elm for JavaScript Developers](https://www.youtube.com/watch?v=tOkOmWgDLOM&feature=youtu.be)
+
+- [podcast](https://elmtown.github.io/2016/10/07/updating-in-elm-town-episode-2.html)
 
 ### Culture
 - [Evan Czaplicki - Let's be mainstream!](https://www.youtube.com/watch?v=oYk8CKH7OhE)
@@ -42,14 +51,31 @@ image_url: https://github.com/walkingdev/elm/blob/master/media/elm.png?raw=true
 - [fn() better than components](http://www.cli-nerd.com/2016/09/12/functions-are-better-than-components.html)
 - [Some thoughts on Elm Dev](https://medium.com/@NewMountain/some-thoughts-on-elm-development-39a0f8a9002a?swoff=true#.9txeogjzn)
 - [easy to reason about](https://medium.freecodecamp.com/what-does-it-mean-when-code-is-easy-to-reason-about-4e6f63eb386f#.ulnuz3rhg)
+- [staltz - unidirectional interface arch](http://staltz.com/unidirectional-user-interface-architectures.html)
+- [Code of conduct](https://github.com/elm-hub/assets/blob/master/slack-code-of-conduct.md)
 
 ### Tools
 - [Style guide](https://github.com/NoRedInk/elm-style-guide)
+- [faq-elm](http://faq.elm-community.org/#how-can-i-change-the-value-of-a-nested-field)
 - [Time Traveling Debugger](http://debug.elm-lang.org/)
+- [Cheatsheet](https://github.com/izdi/elm-cheat-sheet)
+- [elm test](https://becoming-functional.com/making-elm-test-more-modular-a508f4c62f49#.3p0ce6kxm)
 
 ### Examples
 - [elm-rays](http://krisajenkins.github.io/elm-rays/)
 - [examples](https://github.com/ivanceras/elm-examples)
+- [Github](https://github.com/jackfranklin/elm-for-js-developers-talk/tree/polyconf/github-issues)
+- [kata mars ranger](https://gist.github.com/cameronpresley/52bc53bcd5b4cdbcfc96f6ad76fbdf47)
+- [kata bowling](https://github.com/pierrebeitz/elm-bowling-game)
+- [is-online](https://github.com/chrisbuttery/is-online/blob/master/src/IsOnline.elm)
+- [twitter client](https://github.com/lazamar/silver-magpi)
 
 ### Books
 - [Manning](https://www.manning.com/books/elm-in-action)
+
+### ELM in prod
+- http://vincent.jousse.org/en/tech/elm-phoenix-elixir-production/
+
+### 
+[optic](http://package.elm-lang.org/packages/toastal/return-optics/latest)
+[optical](https://toast.al/posts/2016-10-20-optical-swordplay-with-components.html)
