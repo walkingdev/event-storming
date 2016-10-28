@@ -1,7 +1,7 @@
 ---
 title: Faq ELM V-33
 description: Une petite exploration d'ELM sans frontale et sans baudrier du côté de Bordeaux.
-image_url: https://github.com/walkingdev/elm/blob/master/v33/media/elm.png?raw=true
+image_url: https://github.com/walkingdev/elm/blob/master/media/banner-elm.jpg?raw=true
 ---
 
 # Session ELM - V-33

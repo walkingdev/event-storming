@@ -1,7 +1,7 @@
 ---
 title: Prépare ton escapade ELM V-33
 description: Une petite exploration ça se prépare, on t’a lister ce qui nous paraissait indispensable (ou pas).
-image_url: https://github.com/walkingdev/elm/blob/master/v33/media/elm.png?raw=true
+image_url: https://github.com/walkingdev/elm/blob/master/media/banner-elm.jpg?raw=true
 ---
 
 # Session ELM - V-33
