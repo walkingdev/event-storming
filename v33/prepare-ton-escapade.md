@@ -1,10 +1,10 @@
 ---
-title: Prépare ton escapade ELM V-34
+title: Prépare ton escapade ELM V-33
 description: Une petite exploration ça se prépare, on t’a lister ce qui nous paraissait indispensable (ou pas).
-image_url: https://github.com/walkingdev/elm/blob/master/media/elm.png?raw=true
+image_url: https://github.com/walkingdev/elm/blob/master/v33/media/elm.png?raw=true
 ---
 
-# Session ELM - V-34
+# Session ELM - V-33
 
 ## Ta préparation
 
@@ -28,8 +28,8 @@ Si tu galères tu peux nous joindre [stephane@scopyleft.fr](mailto:stephane@scop
 
 ## Préparation des organisateurs
 
-* 2 rallonges
-* 2 multi-prises
+* 1 rallonge
+* 1 multi-prise
 * 1 vidéo-proj
 * 2/3 adaptateurs hdmi - vga
 * 2/3 cables hdmi - vga

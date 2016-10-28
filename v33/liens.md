@@ -1,10 +1,10 @@
 ---
-title: Liens pour la session ELM V-34
+title: Liens pour la session ELM V-33
 description: Liens de ressources sur ELM
-image_url: https://github.com/walkingdev/elm/blob/master/media/elm.png?raw=true
+image_url: https://github.com/walkingdev/elm/blob/master/v33/media/elm.png?raw=true
 ---
 
-# Session ELM - V-34
+# Session ELM - V-33
 
 ## Liens
 - [Awesome Elm](https://github.com/isRuslan/awesome-elm)
