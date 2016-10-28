@@ -60,6 +60,7 @@ image_url: https://github.com/walkingdev/elm/blob/master/media/elm.png?raw=true
 - [Time Traveling Debugger](http://debug.elm-lang.org/)
 - [Cheatsheet](https://github.com/izdi/elm-cheat-sheet)
 - [elm test](https://becoming-functional.com/making-elm-test-more-modular-a508f4c62f49#.3p0ce6kxm)
+- [elm slack subscribe](http://elmlang.herokuapp.com/)
 
 ### Examples
 - [elm-rays](http://krisajenkins.github.io/elm-rays/)
@@ -74,7 +75,7 @@ image_url: https://github.com/walkingdev/elm/blob/master/media/elm.png?raw=true
 - [Manning](https://www.manning.com/books/elm-in-action)
 
 ### ELM in prod
-- http://vincent.jousse.org/en/tech/elm-phoenix-elixir-production/
+- [elm-phoenix-elixir](http://vincent.jousse.org/en/tech/elm-phoenix-elixir-production)
 
 ### 
 [optic](http://package.elm-lang.org/packages/toastal/return-optics/latest)
