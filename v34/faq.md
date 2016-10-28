@@ -41,7 +41,7 @@ En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec no
 
 En gros, il faut que tu prennes ton **laptop**, ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/elm/blob/master/ressources/v34/prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/elm/blob/master/v34/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 

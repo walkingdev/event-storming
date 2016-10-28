@@ -45,7 +45,7 @@ Au moins 2, maximum 10, probablement autour de 7.
 
 En gros, il faut que tu prennes ton **laptop**, ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher et peut-être faire du vélo.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/elm/blob/master/v33/ressources/prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/elm/blob/master/v33/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
@@ -57,7 +57,7 @@ Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, pa
 
 ### Je m'inscris où ?
 
-Tu peux t'inscrire en éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/elm/edit/master/v33/inscriptions.md). Ton inscription n'est confirmée qu'une fois que ton nom apparait effectivement sur la page d'[inscriptions](https://walkingdev.fr/#walkingdev/elm/master/v33/inscriptions.md).
+Tu peux t'inscrire en éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/elm/edit/master/v33/inscriptions.md). Ton inscription n'est confirmée qu'une fois que ton nom apparait effectivement sur la page d'[inscriptions](http://walkingdev.fr/#walkingdev/elm/blob/master/v33/inscriptions.md).
 
 Tu peux aussi nous envoyer un petit mail :[stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
 
@@ -69,7 +69,7 @@ Pour ce montant tu pourras manger, voyager et boire durant toute la journée.
 
 ### Et où passe tout ce butin ?
 
-Difficile à dire aujourd’hui, vu qu’on en sait rien. Par contre tu peux te faire une bonne idée en regardant la [« compta »](https://walkingdev.fr/#walkingdev/elm/master/v34/budget.md) de la dernière session.  
+Difficile à dire aujourd’hui, vu qu’on en sait rien. Par contre tu peux te faire une bonne idée en regardant la " [compta](http://walkingdev.fr/#walkingdev/elm/blob/master/v34/budget.md)  " de la dernière session.  
 
 ### Et si c’est trop cher pour moi ?
 
