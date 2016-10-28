@@ -23,7 +23,7 @@ Si tu galères tu peux nous joindre [stephane@scopyleft.fr](mailto:stephane@scop
 ### Le reste
 - Chaussures confortable pour marcher
 - Noisettes
-- Bouteilles d’eau
+- Bouteille d’eau
 - Couteau
 
 ## Préparation des organisateurs
@@ -34,5 +34,4 @@ Si tu galères tu peux nous joindre [stephane@scopyleft.fr](mailto:stephane@scop
 * 2/3 adaptateurs hdmi - vga
 * 2/3 cables hdmi - vga
 * 1 trousse : marqueurs, post-it, crayons, papiers,
-* 5 tableaux blancs électro-statiques
 * 2 bouteilles d’eau
