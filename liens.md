@@ -1,7 +1,7 @@
 ---
 title: Liens pour la session ELM
 description: Liens de ressources sur ELM
-image_url: https://github.com/walkingdev/elm/blob/master/media/elm.png?raw=true
+image_url: https://github.com/walkingdev/elm/blob/master/media/banner-elm.jpg?raw=true
 ---
 
 # Session ELM
