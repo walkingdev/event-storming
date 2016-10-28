@@ -4,7 +4,9 @@ description: Liste pour s'inscrire à la session ELM V-34
 image_url: https://github.com/walkingdev/elm/blob/master/media/elm.png?raw=true
 ---
 
-# Inscriptions
+# **SOLD OUT**
+
+#### Inscriptions
 
 Pour t'inscrire, ajoute tes coordonnées en bas de la liste.  
 Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/elm/blob/master/v34-faq.md)  
@@ -18,3 +20,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/elm/blob/m
 * Hahn - Clémentine - @ClementineHahn
 * Prat Homs - Jordi - @jordiprathoms
 * Plaindoux - Didier - @dplaindoux
+* Cassaigne - Anthony @acassaigne
