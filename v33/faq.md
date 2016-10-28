@@ -31,9 +31,11 @@ T’inquiète pas, nous non plus ;)
 
 En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec nous sans être largué.
 
-### Mais c'est une formation ?
+### Mais c'est pas une formation ?
 
-Ben non. Enfin, ça dépendra de toi. Notre objectif c'est de cadre un cadre où tu pourras apprendre des choses
+Ben non. Enfin, ça dépend de toi.  Il n'y aura pas de prof venant dispenser la bonne parole, juste des gens explorant le sujet.
+
+Nous on t'offre un cadre où tu devrais pouvoir apprendre des choses et de l'aide sur le chemin si tu le demandes.
 
 ### On sera combien ?
 
