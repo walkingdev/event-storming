@@ -1,7 +1,7 @@
 ---
 title: Faq ELM V-34
 description: Une petite exploration d'ELM sans frontale et sans baudrier du côté de Montpellier.
-image_url: https://github.com/walkingdev/elm/blob/master/media/elm.png?raw=true
+image_url: https://github.com/walkingdev/elm/blob/master/v34/media/elm.png?raw=true
 ---
 
 # Session ELM - V-34
@@ -34,14 +34,14 @@ En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec no
 
 ### On sera combien ?
 
-~~~Au moins 2, maximum 8, probablement 6~~~. 
+~~Au moins 2, maximum 8, probablement 6~~. 
 8, en fait 9
 
 ### Il faut que je prévois des trucs ?
 
 En gros, il faut que tu prennes ton **laptop**, ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/elm/blob/master/ressources/v34-prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/elm/blob/master/ressources/v34/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
@@ -53,7 +53,7 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dan
 
 Tu ne peux plus t’inscrire, parce que c'est *COMPLET*
 
-Tu peux quand même t'inscrire par anticipation à la prochaine session en éditant cette page sur Github : [v34-inscriptions.md](https://github.com/walkingdev/elm/edit/master/v34-inscriptions.md) - et en précisant dans quelle ville tu souhaiterais qu'elle se déroule.
+Tu peux quand même t'inscrire par anticipation à la prochaine session en éditant cette page sur Github : [v34-inscriptions.md](https://github.com/walkingdev/elm/edit/master/v34/inscriptions.md) - et en précisant dans quelle ville tu souhaiterais qu'elle se déroule.
 
 Tu peux aussi nous envoyer un petit mail : [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
 
