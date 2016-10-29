@@ -12,3 +12,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/elm/blob/m
 * *nom - prénom - moyens de contact *
 * Langlois - Stéphane - stephane@scopyleft.fr - @langlois_s
 * Vernois - Antoine - @avernois
+* Dusseaut - Jean-Baptiste @bodysplash
