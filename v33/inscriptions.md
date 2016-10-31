@@ -10,5 +10,6 @@ Pour t'inscrire, ajoute tes coordonnées en bas de la liste.
 Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/elm/blob/master/v33/faq.md)
 
 * *nom - prénom - moyens de contact *
+* Auguste - Josselin - jauguste@iblop.net / @josselinauguste / 0661035124
 * Langlois - Stéphane - stephane@scopyleft.fr - @langlois_s
 * Vernois - Antoine - @avernois
