@@ -29,6 +29,11 @@ image_url: https://github.com/walkingdev/elm/blob/master/media/banner-elm.jpg?ra
 - [Elm structure](https://github.com/glasserc/demo-elm-structures)
 - [snippets-examples](https://github.com/ivanceras/elm-examples)
 - [recursion](http://learnyouanelm.github.io/pages/05-recursion.html)
+- [canvas](https://github.com/avh4/codevember-2016/tree/master/day-1)
+- [Hanoi](http://marcosh.github.io/post/2016/11/04/on-valid-models-and-data-structures.html)
+
+#### JSON
+[JSON Decoder Change](https://www.brianthicks.com/post/2016/10/31/json-schema-changes-a-halloween-horror-story/)
 
 #### Videos
 - [Introduction - Richard Feldman](https://www.youtube.com/watch?v=zBHB9i8e3Kc)
