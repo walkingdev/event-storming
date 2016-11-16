@@ -1,1 +1,1 @@
-V34/inscription.md
+V34/inscriptions.md
