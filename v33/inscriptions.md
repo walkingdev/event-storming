@@ -15,3 +15,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/elm/blob/m
 * Vernois - Antoine - @avernois
 * Fuentes - Loïc - fuentes.loic@gmail.com - @loicfuentes
 * Dusseaut - Jean-Baptiste @bodysplash
+* Tregan - Fabien - @ftregan
