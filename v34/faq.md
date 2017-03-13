@@ -1,30 +1,37 @@
 ---
-title: Faq ELM V-34
-description: Une petite exploration d'ELM sans frontale et sans baudrier du côté de Montpellier.
-image_url: https://github.com/walkingdev/elm/blob/master/v34/media/elm.png?raw=true
+title: Précision sur le WalkingDev - Event Storming
+image_url: https://raw.githubusercontent.com/walkingdev/event-storming/master/media/event-storming.jpg
 ---
 
-# Session ELM - V-34
+# Session Event Storming
 
 ## FAQ
 
 ### On va faire quoi ?
 
-L'idée c'est de découvrir [Elm](http://elm-lang.org/), en même temps que des endroits insolites.
-Dans un lieu, en binôme ou en groupe on explore une partie du sujet, via des petits ateliers, présentations, questionnements ou autres expérimentations puis on passe à l'endroit suivant.
-On profitera du trajet pour débriefer sur la session que l'on vient de faire.
+Pour construire une application, une webApp ou un logiciel il faut savoir coder et juste avant, il faut savoir *quoi* coder.  
+
+L'Event Storming est une approche simple et consistante pour modéliser le domaine métier avec les parties prenantes, les acteurs clés.
+Sous la forme d'un atelier de co-construction (focus group) on explore le métier pour découvrir un vocable commun, éclairer les zones sombres et démêler les incompréhensions.
+C'est simple, fun et efficace, idéal pour s'aligner et résoudre des trucs complexes sans sombrer dans des débats éprouvants.
+
+### WalkingDev, j'ai encore du mal à comprendre ?
+
+Consulte le [témoignage de Julia](https://medium.com/@julia.barbelane/walking-dev-ou-comment-apprendre-en-itin%C3%A9rance-426acb12e024#.p8fp722a8) c'est un autre sujet - Le Running Lean - mais ça peut éclairer.
 
 ### C'est quand et où ?
 
-La marche commencera le 27 octobre à 9h au ~~[FairView Café](http://www.openstreetmap.org/node/1347108117) rue Loys~~  
-[Café Bun - 5, rue des étuves à Montpellier](http://osm.org/go/xVygEvf3l) - .
-Et, ça se termine vers 18h30.
+La marche commencera le 13 avril 2017 à 9h au 
+[café Bun - 5 Rue des Étuves - 34000 Montpellier,](http://www.openstreetmap.org/node/3739290262).
+La journée se termine vers 18h00.
 
 ### C'est pour qui ?
 
-- Les personnes impliquées ou curieuses de découvrir le développement logiciel.
-- Les développeuses et développeurs souhaitant chatouiller le paradigme fonctionnel sans se brûler.
+- Les développeurs qui souhaitent construire des applications pertinentes.
+-  Les Product-Owners et Product-Managers pour compléter leur équipement.
+- les responsables de projet et managers qui veulent découvrir une approche simple et consistante pour transmettre et échanger avec les développeurs.
 - Les hipsters et hipsteuses kiffant tester l'effet de leurs barbes en se baladant dans la cité.
+- Ceux qui connaissent déjà l'approche viendront pour découvrir un autre point de vue, et gagner en expérience.
 
 ### Je me sens pas au niveau…
 
@@ -32,52 +39,49 @@ T’inquiète pas, nous non plus ;)
 
 En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec nous sans être largué.
 
+### Mais c'est pas une formation ?
+
+Ben non. Enfin, ça dépend de toi. Il n'y aura pas de prof venant dispenser la bonne parole, juste des gens explorant le sujet.
+
+On essaye de t'offrir un contexte pour apprendre des choses et obtenir de l’aide quand tu le souhaites.
+
 ### On sera combien ?
 
-~~Au moins 2, maximum 8, probablement 6~~. 
-8, en fait 9
+Au moins 2, maximum 10, probablement 7 ou 8 !
 
 ### Il faut que je prévois des trucs ?
 
-En gros, il faut que tu prennes ton **laptop**, ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher.
+En gros, il te faut ta bonne humeur, de l’eau, des noisettes ou des abricots secs et de quoi t’habiller confortablement pour marcher.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/elm/blob/master/v34/prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/event-storming/blob/master/v34/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
-Une dizaine de kilomètres dans la journée.
+Une dizaine de kilomètres max dans la journée.
 
-On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dans la journée.
+On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 15 min dans la journée.
 
 ### Je m'inscris où ?
 
-Tu ne peux plus t’inscrire, parce que c'est *COMPLET*
+En éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/event-storming/blob/master/v34/inscriptions.md)
 
-Tu peux quand même t'inscrire par anticipation à la prochaine session en éditant cette page sur Github : [v34-inscriptions.md](https://github.com/walkingdev/elm/edit/master/v34/inscriptions.md) - et en précisant dans quelle ville tu souhaiterais qu'elle se déroule.
+ou
 
-Tu peux aussi nous envoyer un petit mail : [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
+En t'inscrivant sur [eventbrite](https://www.eventbrite.fr/e/billets-event-storming-la-tete-dans-la-tempete-32820147946)
 
 ### Ça coûte combien cette petite escapade ?
 
-49 € TTC pour les particuliers, et 69 € si c’est ta boite qui paye.
+59 € pour les particuliers, et 89 € HT si c’est ta boite qui paye.  
 
-On pense que ça correspond à peu près à ce que tu vas manger, boire, et aux billets qui te permettront de te déplacer sans frauder.
+Pour ce montant tu pourras manger, voyager et boire durant toute la journée.
 
 ### Et si c’est trop cher pour moi ?
 
-Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va bien trouver une solution ? 
-
-### On mangera quoi ?
-
-Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végétalien ou avec des restrictions alimentaires, préviens nous.
-
-### Pourquoi V-34 ?
-
-C'est pas très explicite, mais en cherchant on trouve quand même facilement le pourquoi du comment.
+Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va bien trouver une solution.
 
 #### Et si j'ai une question ?
 
-Tu peux contacter :  
-- Antoine - [@avernois](http://twitter.com/avernois) (dm ouvert)  
-ou  
-- Stéphane - [@langlois_s](http://twitter.com/langlois_s) (dm ouvert aussi) 
+Tu peux contacter :
+
+- Fabien Tregan - [fabien@tregan.fr](mailto:fabien@tregan.fr)
+- Stéphane Langlois - [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)

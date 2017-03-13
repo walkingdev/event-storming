@@ -1,23 +1,17 @@
 ---
-title: Inscriptions ELM V-34
-description: Liste pour s'inscrire à la session ELM V-34
-image_url: https://github.com/walkingdev/elm/blob/master/v34/media/elm.png?raw=true
+title: Inscriptions walkingDev trampolean
+description: Liste pour s'inscrire à la session walking-dev Trampolean
+image_url: https://raw.githubusercontent.com/walkingdev/event-storming/master/media/inscription.jpg
 ---
 
-# **SOLD OUT**
 
-#### Inscriptions
+# Inscriptions
 
 Pour t'inscrire, ajoute tes coordonnées en bas de la liste.  
-Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/elm/blob/master/v34/faq.md)  
+Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/trampolean/blob/master/v31/faq.md)  
 
-* *nom - prénom - moyens de contact *
-* Langlois - Stéphane - stephane@scopyleft.fr - @langlois_s
-* Vernois - Antoine - @avernois
-* Perriault - Nicolas - @n1k0
-* Chanson - Lionel - @liochan
-* Gaulupeau - Johan - @y0h34
-* Hahn - Clémentine - @ClementineHahn
-* Prat Homs - Jordi - @jordiprathoms
-* Plaindoux - Didier - @dplaindoux
-* Cassaigne - Anthony @acassaigne
+Ou utilise ce service [inscription](https://www.eventbrite.fr/e/billets-journee-dexploration-lean-startup-itinerante-pour-tester-et-valider-son-projet-32122368870)
+
+* nom - prénom - mail - tél
+* Le Guillou - Aurélie - aurelie@flowher.net - 06.07.02.15.56
+* Langlois - Stéphane - stephane@scopyleft.fr
