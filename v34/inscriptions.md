@@ -13,5 +13,6 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/trampolean
 Ou utilise ce service [inscription](https://www.eventbrite.fr/e/billets-event-storming-la-tete-dans-la-tempete-32820147946)
 
 * nom - prénom - mail - tél
-* Le Guillou - Aurélie - aurelie@flowher.net - 06.07.02.15.56
-* Langlois - Stéphane - stephane@scopyleft.fr
+* Maïtané Lenoir -
+* Fabien Trégan -
+* Jeremy Barthe -
