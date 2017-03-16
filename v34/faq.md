@@ -1,5 +1,5 @@
 ---
-title: Précision sur le WalkingDev - Event Storming
+title: Précision sur le WalkingDev - EventStorming
 image_url: https://raw.githubusercontent.com/walkingdev/event-storming/master/media/event-storming.jpg
 ---
 
@@ -11,9 +11,9 @@ image_url: https://raw.githubusercontent.com/walkingdev/event-storming/master/me
 
 Pour construire une application, une webApp ou un logiciel il faut savoir coder et juste avant, il faut savoir *quoi* coder.  
 
-L'Event Storming est une approche simple et consistante pour modéliser le domaine métier avec les parties prenantes, les acteurs clés.
+EventStorming est une approche simple pour partager et construire une connaissance du domaine métier de façon collaborative.
 Sous la forme d'un atelier de co-construction (focus group) on explore le métier pour découvrir un vocable commun, éclairer les zones sombres et démêler les incompréhensions.
-C'est simple, fun et efficace, idéal pour s'aligner et résoudre des trucs complexes sans sombrer dans des débats éprouvants.
+C'est simple, fun et efficace, idéal pour s'aligner et résoudre des trucs complexes sans sombrer dans des débats éprouvants et tirer partie de la compréhension de chaque acteur (experts métiers, développeur, chef de projet / product owner, ...)
 
 ### WalkingDev, j'ai encore du mal à comprendre ?
 
@@ -27,11 +27,16 @@ La journée se termine vers 18h00.
 
 ### C'est pour qui ?
 
-- Les développeurs qui souhaitent construire des applications pertinentes.
--  Les Product-Owners et Product-Managers pour compléter leur équipement.
-- les responsables de projet et managers qui veulent découvrir une approche simple et consistante pour transmettre et échanger avec les développeurs.
-- Les hipsters et hipsteuses kiffant tester l'effet de leurs barbes en se baladant dans la cité.
-- Ceux qui connaissent déjà l'approche viendront pour découvrir un autre point de vue, et gagner en expérience.
+- Les pratiquants qui veulent comprendre aller au delà de la mécanique de la réunion
+- Les non pratiquants qui veulent s'y mettre
+- Les facilitateurs qui cherche un nouvel outil
+- Les products owners qui veulent que leur stratégie produit et leur expression de besoin parlent à leurs collaborateurs
+- Les développeurs qui pensent qu'ils ne sont pas uniquement programmeurs
+- Les adeptes de Domain Driven Design qui n'ont pas trouvé leur outil de modélisation
+- Les experts métiers qui pensent ne pas être experts en conception logicielle
+- Les ferrus d'Expérience Utilisateurs qui veulent que la compétence métier ne soit pas distilée en silos
+- Les curieux qui aiment se promener et avoir des discussions enrichissantes
+- Ceux qui veullent essayer d'apprendre ensemble plutot qu'en suivant un cours
 
 ### Je me sens pas au niveau…
 
