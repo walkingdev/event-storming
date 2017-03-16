@@ -84,4 +84,4 @@ Ne te prive pas de cette super journée pour des problèmes matériels, contacte
 Tu peux contacter :
 
 - Fabien Tregan - [fabien@tregan.fr](mailto:fabien@tregan.fr)
-- Stéphane Langlois - [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
+- Maïtané Lenoir - [@maiwann_](http://twitter.com/maiwann_)
