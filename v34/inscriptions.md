@@ -1,6 +1,6 @@
 ---
-title: Inscriptions walkingDev trampolean
-description: Liste pour s'inscrire à la session walking-dev Trampolean
+title: Inscriptions walkingDev EventStorming
+description: Liste pour s'inscrire à la session walking-dev EventStorming
 image_url: https://raw.githubusercontent.com/walkingdev/event-storming/master/media/inscription.jpg
 ---
 
@@ -8,7 +8,7 @@ image_url: https://raw.githubusercontent.com/walkingdev/event-storming/master/me
 # Inscriptions
 
 Pour t'inscrire, ajoute tes coordonnées en bas de la liste.  
-Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/trampolean/blob/master/v31/faq.md)  
+Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/event-storming/blob/master/v34/faq.md)  
 
 Ou utilise ce service [inscription](https://www.eventbrite.fr/e/billets-event-storming-la-tete-dans-la-tempete-32820147946)
 
