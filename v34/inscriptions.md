@@ -17,3 +17,5 @@ Ou utilise ce service [inscription](https://www.eventbrite.fr/e/billets-event-st
 * Fabien Trégan -
 * Jeremy Barthe -
 * Loïc Gerbaud - info@loicg.net - 06.85.93.54.57
+* Stéphane Langlois
+
