@@ -21,7 +21,7 @@ Consulte le [témoignage de Julia](https://medium.com/@julia.barbelane/walking-d
 
 ### C'est quand et où ?
 
-La marche commencera le 4 mai 2017 à 9h à un lieu indeterminé. Propositions ?
+La marche commencera le 4 mai 2017 à 9h au [Partisan Café](http://www.partisancafe.fr/).
 La journée se termine vers 18h00.
 
 ### C'est pour qui ?
