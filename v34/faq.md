@@ -21,8 +21,7 @@ Consulte le [témoignage de Julia](https://medium.com/@julia.barbelane/walking-d
 
 ### C'est quand et où ?
 
-La marche commencera le 13 avril 2017 à 9h au 
-[café Bun - 5 Rue des Étuves - 34000 Montpellier,](http://www.openstreetmap.org/node/3739290262).
+La marche commencera le 4 mai 2017 à 9h à un lieu indeterminé. Propositions ?
 La journée se termine vers 18h00.
 
 ### C'est pour qui ?
@@ -89,4 +88,4 @@ Ne te prive pas de cette super journée pour des problèmes matériels, contacte
 Tu peux contacter :
 
 - Fabien Tregan - [fabien@tregan.fr](mailto:fabien@tregan.fr)
-- Maïtané Lenoir - [@maiwann_](http://twitter.com/maiwann_)
+- Sam Cranford - [@nostradamnit / sam@cranford.fr](http://twitter.com/nostradamnit)
