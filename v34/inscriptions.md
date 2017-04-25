@@ -18,4 +18,5 @@ Ou utilise ce service [inscription](https://www.eventbrite.fr/e/billets-event-st
 * Jeremy Barthe -
 * Loïc Gerbaud - info@loicg.net - 06.85.93.54.57
 * Stéphane Langlois
+* Mikaël Létang - mikael.letang@gmail.com - 06 10 70 69 60
 
