@@ -57,7 +57,7 @@ Au moins 2, maximum 10, probablement 7 ou 8 !
 
 En gros, il te faut ta bonne humeur, de l’eau, des noisettes ou des abricots secs et de quoi t’habiller confortablement pour marcher.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/event-storming/blob/master/v34/prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/event-storming/blob/master/v33/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
@@ -67,7 +67,7 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 15 min dans la
 
 ### Je m'inscris où ?
 
-En éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/event-storming/blob/master/v34/inscriptions.md)
+En éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/event-storming/blob/master/v33/inscriptions.md)
 
 ou
 

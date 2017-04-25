@@ -8,7 +8,7 @@ image_url: https://raw.githubusercontent.com/walkingdev/event-storming/master/me
 # Inscriptions
 
 Pour t'inscrire, ajoute tes coordonnées en bas de la liste.  
-Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/event-storming/blob/master/v34/faq.md)  
+Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/event-storming/blob/master/v33/faq.md)  
 
 Ou utilise ce service [inscription](https://www.eventbrite.fr/e/billets-event-storming-la-tete-dans-la-tempete-32820147946)
 
