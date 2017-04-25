@@ -71,7 +71,7 @@ En éditant cette page sur Github : [inscriptions.md](https://github.com/walking
 
 ou
 
-En t'inscrivant sur [eventbrite](https://www.eventbrite.fr/e/billets-event-storming-la-tete-dans-la-tempete-32820147946)
+En t'inscrivant sur via twitter (voir les contacts en bas de cette page)
 
 ### Ça coûte combien cette petite escapade ?
 
@@ -87,5 +87,5 @@ Ne te prive pas de cette super journée pour des problèmes matériels, contacte
 
 Tu peux contacter :
 
-- Fabien Tregan - [fabien@tregan.fr](mailto:fabien@tregan.fr)
+- Fabien Tregan - [fabien@tregan.fr](mailto:fabien@tregan.fr) / [@ftregan](http://twitter.com/ftregan)
 - Sam Cranford - [@nostradamnit / sam@cranford.fr](http://twitter.com/nostradamnit)
