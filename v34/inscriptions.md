@@ -13,10 +13,7 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/event-stor
 Ou utilise ce service [inscription](https://www.eventbrite.fr/e/billets-event-storming-la-tete-dans-la-tempete-32820147946)
 
 * nom - prénom - mail - tél
-* Maïtané Lenoir -
 * Fabien Trégan -
-* Jeremy Barthe -
-* Loïc Gerbaud - info@loicg.net - 06.85.93.54.57
-* Stéphane Langlois
+* Sam Cranford - sam@cranford.fr - 06.08.34.43.20
 * Mikaël Létang - mikael.letang@gmail.com - 06 10 70 69 60
 
